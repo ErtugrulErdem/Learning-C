@@ -5,13 +5,13 @@ Variables, data types, and operators
 Control structures (if statements, loops)
 Functions and recursion
 Arrays and strings
-Algorithms:
 
+Algorithms:
 Sorting algorithms (Bubble Sort, Selection Sort)
 Searching algorithms (Linear Search, Binary Search)
 Basic data structures (Linked Lists, Stacks)
-Shell Commands:
 
+Shell Commands:
 Basic file manipulation (ls, cp, mv, rm)
 Text processing (cat, grep, awk)
 System navigation and management
